@@ -16,8 +16,8 @@
 	<description>first spring boot project</description>
 
 	<properties>
-		<java.version>11</java.version>
-	</properties>
+        <java.version>8</java.version>
+       </properties>
 
 	<dependencies>
 
